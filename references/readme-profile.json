@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 172｜Centred Subject with Translucent Geometry: places a small version of the photo's most recognisable subject in the centre of a large, clean ivory or rice-paper-white space, with a few soft, low-contrast translucent geometric shapes behind it — circles, ovals, arcs, rectangles or thin overlapping layers whose overlaps make gentle mixed colours — and an optional few thin vertical lines, all staying in the background so they never form a second focus. High-key Eastern palette from the photo (grey-teal, grey-green, soft ochre, earth gold, soft blue, pale orange) with tiny vermilion or ink accents and a few quiet words above or below the subject. Centred layout. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-172 or asks for a centred minimal poster with translucent geometric shapes from a photo.",
+  "short_description": "居中透明几何志：小小的主体放在正中，身后浮着几块淡淡的半透明几何色片",
+  "zh-CN": {
+    "name": "居中透明几何志",
+    "tagline": "照片主角小小地放在正中央，身后浮着几块淡淡的半透明几何色片。",
+    "look": "主体被概括后放在画面正中，尺寸克制，四周是大片象牙白或宣纸米白。主体身后有少量半透明的彩色几何形：柔和的圆、椭圆、弧线、矩形或薄薄的叠层，互相叠加时透出柔和的混合色，但始终退在背景里，不抢主体。可以再加几根细而淡的竖线做骨架。颜色从照片里调成灰青、灰绿、浅赭、土金、柔蓝、淡橙这类清透色，只在极小处点一点朱砂红或墨色。少量字落在主体上下或边缘。",
+    "traits": [
+      "居中主体",
+      "半透明几何层",
+      "大面积留白",
+      "轻量竖线骨架",
+      "清透东方色"
+    ],
+    "good": [
+      "单一、安静的主体：一只猫、一个花瓶、一个站立的人、一棵小树",
+      "形态有动势或方向感、适合配几何气氛的主体：伸展的手臂、展翅的鸟、一把撑开的伞",
+      "想做成极简海报、书封、品牌视觉或壁纸的照片"
+    ],
+    "poor": [
+      "需要交代环境和多人关系的场景，这里只留中央一个小主体",
+      "想要浓烈色彩、强渐变或粗重几何色块的照片和需求",
+      "想要偏心构图、满版画面或密集装饰的需求"
+    ]
+  },
+  "en": {
+    "name": "Centred Subject with Translucent Geometry",
+    "tagline": "Places the star of your photo small and dead centre, with a few faint translucent geometric shapes floating behind it.",
+    "look": "The subject is simplified and set in the exact centre at a modest size, surrounded by wide ivory or rice-paper white. Behind it float a few translucent coloured shapes: soft circles, ovals, arcs, rectangles or thin overlapping layers that blend into gentle mixed colours where they meet, yet always stay in the background and never compete with the subject. A few thin, faint vertical lines can add structure. The photo's colours become clear, light tones such as grey-teal, grey-green, soft ochre, earth gold, soft blue and pale orange, with only a tiny touch of vermilion or ink. A few words sit above, below or at the edge.",
+    "traits": [
+      "Centred subject",
+      "Translucent geometry",
+      "Wide whitespace",
+      "Light vertical lines",
+      "Clear Eastern tones"
+    ],
+    "good": [
+      "A single quiet subject: a cat, a vase, a standing person, a small tree",
+      "Subjects with movement or direction that suit a geometric mood: an outstretched arm, a bird with open wings, an open umbrella",
+      "Photos you want as a minimal poster, a book cover, brand artwork or a wallpaper"
+    ],
+    "poor": [
+      "Scenes that need setting or relationships between several people, since only one small centred subject remains",
+      "Photos or requests that want strong colour, bold gradients or heavy geometric blocks",
+      "Requests for an off-centre layout, an edge-to-edge image or dense decoration"
+    ]
+  },
+  "ja": {
+    "name": "中央の主題と半透明幾何レイヤー",
+    "tagline": "写真の主役を画面の真ん中に小さく置き、その後ろに淡い半透明の幾何学の色片を浮かべます。",
+    "look": "主役は簡潔にまとめられ、控えめな大きさで画面の真ん中に置かれ、まわりは広い象牙色や画仙紙の白です。その後ろには半透明の色のついた幾何学形が少しだけ浮かびます。やわらかな円、楕円、弧、長方形、薄い重なりで、重なった所にやさしい混色が生まれますが、いつも背景に退き、主役と競いません。細く淡い縦線を数本加えて骨格にすることもあります。写真の色は灰青、灰緑、淡い黄土、土色の金、やわらかな青、淡い橙のような澄んだ色に整え、朱や墨はごく小さく一点だけです。言葉は主役の上下か縁に少しだけ入ります。",
+    "traits": [
+      "中央の主役",
+      "半透明の幾何学形",
+      "広い余白",
+      "軽い縦線の骨格",
+      "澄んだ東洋の色"
+    ],
+    "good": [
+      "ひとつの静かな主役：猫、花瓶、立っている人、小さな木",
+      "動きや向きがあり幾何学の雰囲気が合う主役：伸ばした腕、翼を広げた鳥、開いた傘",
+      "ミニマルなポスター、本の表紙、ブランドビジュアル、壁紙にしたい写真"
+    ],
+    "poor": [
+      "環境や複数の人の関係を見せたい場面（中央の小さな主役ひとつだけになります）",
+      "濃い色、強いグラデーション、重い幾何学の色面を求める写真や依頼",
+      "中心をずらした構図、画面いっぱいの絵、密な装飾を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "중앙 피사체와 반투명 기하 레이어",
+    "tagline": "사진 속 주인공을 화면 정중앙에 작게 두고, 그 뒤에 옅은 반투명 기하 색 조각 몇 개를 띄웁니다.",
+    "look": "주인공은 간결하게 정리되어 절제된 크기로 화면 정중앙에 놓이고, 주변은 넓은 상아색이나 화선지 미색입니다. 그 뒤로 반투명한 색 기하 도형 몇 개가 떠 있습니다. 부드러운 원, 타원, 호, 사각형, 얇게 겹친 층이며 겹치는 곳에 은은한 혼합색이 생기지만, 늘 배경으로 물러나 주인공과 다투지 않습니다. 가늘고 옅은 세로선 몇 개를 골격으로 더할 수도 있습니다. 사진의 색은 회청, 회녹, 연한 황토, 흙빛 금색, 부드러운 파랑, 연한 주황 같은 맑은 색으로 바꾸고, 주홍이나 먹색은 아주 작게 한 점만 찍습니다. 글은 주인공 위아래나 가장자리에 조금만 들어갑니다.",
+    "traits": [
+      "중앙 주인공",
+      "반투명 기하 도형",
+      "넓은 여백",
+      "가벼운 세로 골격",
+      "맑은 동양 색"
+    ],
+    "good": [
+      "하나의 조용한 주인공: 고양이, 꽃병, 서 있는 사람, 작은 나무",
+      "움직임이나 방향이 있어 기하 분위기와 어울리는 주인공: 뻗은 팔, 날개 편 새, 펼친 우산",
+      "미니멀 포스터, 책 표지, 브랜드 비주얼, 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "환경이나 여러 사람의 관계를 보여야 하는 장면(가운데 작은 주인공 하나만 남습니다)",
+      "진한 색, 강한 그러데이션, 묵직한 기하 색면을 바라는 사진이나 요청",
+      "치우친 구도, 꽉 찬 화면, 빽빽한 장식을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "موضوع مركزي وطبقات هندسية شفافة",
+    "tagline": "يضع بطل صورتك صغيراً في المنتصف تماماً، وخلفه أشكال هندسية شفافة باهتة تطفو بهدوء.",
+    "look": "يُبسَّط العنصر ويوضع في المنتصف تماماً بحجم معتدل، تحيط به مساحة عاجية أو بيضاء كورق الأرز. وخلفه تطفو أشكال ملوّنة شفافة قليلة: دوائر ناعمة وأشكال بيضوية وأقواس ومستطيلات أو طبقات رقيقة متراكبة، تمتزج حيث تلتقي في ألوان هادئة، لكنها تبقى دائماً في الخلفية ولا تنافس العنصر. ويمكن إضافة بضعة خطوط رأسية رفيعة باهتة كهيكل خفي. تصبح ألوان الصورة درجات صافية خفيفة مثل الرمادي الفيروزي والرمادي المخضرّ والمغرة الفاتحة والذهبي الترابي والأزرق الناعم والبرتقالي الباهت، مع لمسة صغيرة جداً من القرمزي أو الحبر. وتقع كلمات قليلة فوق العنصر أو تحته أو عند الحافة.",
+    "traits": [
+      "عنصر في المركز",
+      "أشكال هندسية شفافة",
+      "فراغ واسع",
+      "خطوط رأسية خفيفة",
+      "ألوان شرقية صافية"
+    ],
+    "good": [
+      "عنصر واحد هادئ: قطة، مزهرية، شخص واقف، شجرة صغيرة",
+      "عناصر فيها حركة أو اتجاه تناسب جواً هندسياً: ذراع ممدودة، طائر بجناحين مفتوحين، مظلة مفتوحة",
+      "صور تريدها ملصقاً بسيطاً أو غلاف كتاب أو تصميماً لعلامة تجارية أو خلفية"
+    ],
+    "poor": [
+      "مشاهد تحتاج إلى المكان أو العلاقات بين عدة أشخاص، إذ لا يبقى إلا عنصر صغير واحد في المنتصف",
+      "صور أو طلبات تريد ألواناً قوية أو تدرّجات جريئة أو كتلاً هندسية ثقيلة",
+      "طلب تكوين غير مركزي أو صورة تملأ المساحة أو زخرفة كثيفة"
+    ]
+  }
+}
